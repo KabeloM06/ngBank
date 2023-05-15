@@ -1,3 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
 .home-page{
     height: 100vh;
+    background-image: url("../../images/main.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-register{
+    border: 5px;
+    border-color: red;
 }
