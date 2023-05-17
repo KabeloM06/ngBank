@@ -22,11 +22,16 @@
     border-color: rgb(216, 0, 0);
     background-color: rgb(216, 0, 0);
     color: aliceblue;
+    font-size: larger;
+    font-weight: 600;
 }
 
 .btn-login {
     border:2px solid;
     border-color: rgb(216, 0, 0);
+    font-size: larger;
+    font-weight: 600;
+    color: black;
 }
 .btn-login:hover {
     color: aliceblue;
