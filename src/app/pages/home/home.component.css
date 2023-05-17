@@ -8,11 +8,36 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    
+    opacity: 90%;
     
 }
 
 .card{
-    margin-top: 40vh;
+    margin-top: 30vh;
+    background: rgb(219, 224, 255);
 }
+
+.btn-register{
+    border:2px solid;
+    border-color: rgb(216, 0, 0);
+    background-color: rgb(216, 0, 0);
+    color: aliceblue;
+}
+
+.btn-login {
+    border:2px solid;
+    border-color: rgb(216, 0, 0);
+}
+.btn-login:hover {
+    color: aliceblue;
+    background-color: rgb(223, 52, 52);
+    border-color: rgb(223, 52, 52);
+}
+.btn-register:hover {
+    
+    background-color: rgb(223, 52, 52);
+    border-color: rgb(223, 52, 52);
+}
+
+
 
