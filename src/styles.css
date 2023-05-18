@@ -1,3 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
 @import '~bootstrap/dist/css/bootstrap.css';
 @import '~bootstrap-icons/font/bootstrap-icons.css';
+
+.btn-register{
+    border:2px solid;
+    border-color: rgb(216, 0, 0);
+    background-color: rgb(216, 0, 0);
+    color: aliceblue;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.btn-register:hover {
+    
+    background-color: rgb(223, 52, 52);
+    border-color: rgb(223, 52, 52);
+}
+
+.card{
+
+    background: rgb(219, 224, 255);
+}

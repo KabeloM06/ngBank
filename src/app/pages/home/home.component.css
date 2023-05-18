@@ -14,17 +14,10 @@
 
 .card{
     margin-top: 30vh;
-    background: rgb(219, 224, 255);
+    
 }
 
-.btn-register{
-    border:2px solid;
-    border-color: rgb(216, 0, 0);
-    background-color: rgb(216, 0, 0);
-    color: aliceblue;
-    font-size: larger;
-    font-weight: 600;
-}
+
 
 .btn-login {
     border:2px solid;
@@ -38,11 +31,7 @@
     background-color: rgb(223, 52, 52);
     border-color: rgb(223, 52, 52);
 }
-.btn-register:hover {
-    
-    background-color: rgb(223, 52, 52);
-    border-color: rgb(223, 52, 52);
-}
+
 
 
 
